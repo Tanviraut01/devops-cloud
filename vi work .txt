@@ -1,0 +1,17 @@
+[root@ip-172-31-45-230 devops-cloud]# git checkout -b feature/test-work
+Switched to a new branch 'feature/test-work'
+[root@ip-172-31-45-230 devops-cloud]# git branch
+* feature/test-work
+  main
+[root@ip-172-31-45-230 devops-cloud]# git push origin feature/test-work
+Username for 'https://github.com': Tanviraut01
+Password for 'https://Tanviraut01@github.com': 
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'feature/test-work' on GitHub by visiting:
+remote:      https://github.com/Tanviraut01/devops-cloud/pull/new/feature/test-work
+remote: 
+To https://github.com/Tanviraut01/devops-cloud.git
+ * [new branch]      feature/test-work -> feature/test-work
+[root@ip-172-31-45-230 devops-cloud]# 
+[root@ip-172-31-45-230 devops-cloud]# git log --oneline
