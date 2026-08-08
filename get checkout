@@ -1,0 +1,7 @@
+[root@ip-172-31-45-230 devops-cloud]# ls -lrt
+total 12
+-rw-r--r--. 1 root root  14 Aug  7 12:44  README.md
+-rw-r--r--. 1 root root   0 Aug  7 12:58  sample.txt
+-rw-r--r--. 1 root root 807 Aug  7 13:45 'vi work .txt'
+-rw-r--r--. 1 root root 114 Aug  8 11:53 'fetch merge ops.txt'
+[root@ip-172-31-45-230 devops-cloud]# 
