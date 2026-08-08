@@ -1,0 +1,6 @@
+AZ-900 concepts
+Storage accounts
+Blob Storage
+Azure Data Lake Storage Gen2
+Entra ID/Azure AD
+Basic cloud concepts
