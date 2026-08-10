@@ -1,0 +1,4 @@
+t status
+git add .
+git commit -m "Add test file"
+git push -u origin develop
